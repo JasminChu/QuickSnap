@@ -150,7 +150,6 @@ namespace CardGames.GameLogic
 			 {
 			 _score[player]--;
 			 }
-
 			// stop the game...
 			_started = false;
 			_gameTimer.Stop();

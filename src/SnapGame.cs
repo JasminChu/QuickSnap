@@ -41,8 +41,8 @@ namespace CardGames
 			 else if (SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
 			 {
 			 myGame.PlayerHit (1);
-			 } 
 			 }
+			 } 
 		}
 
 		/// <summary>
